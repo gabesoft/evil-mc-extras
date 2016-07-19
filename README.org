@@ -9,7 +9,7 @@
 
 ** Extra functionality for [[https://github.com/gabesoft/evil-mc][evil-mc]] 
 *** Synopsis
-*evil-mc-extras* provides functions that build on the core [[https://github.com/gabesoft/evil-mc][evil-mc]] functionality
+*evil-mc-extras* provides functions that augment the core [[https://github.com/gabesoft/evil-mc][evil-mc]] functionality
 *** Usage
 Start with:
 #+BEGIN_SRC emacs-lisp
