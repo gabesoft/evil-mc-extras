@@ -1,10 +1,11 @@
 (source gnu)
 (source melpa)
 
-(package-file "evil-mc.el")
+(package-file "evil-mc-extras.el")
 
 (development
  (depends-on "evil")
+ (depends-on "evil-mc")
  (depends-on "evil-surround")
  (depends-on "evil-numbers")
  (depends-on "f")
