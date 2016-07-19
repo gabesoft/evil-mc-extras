@@ -1,0 +1,34 @@
+:             .__.__                                      __                        
+:   _______  _|__|  |     _____   ____     ____ ___  ____/  |_____________    ______
+: _/ __ \  \/ /  |  |    /     \_/ ___\  _/ __ \\  \/  /\   __\_  __ \__  \  /  ___/
+: \  ___/\   /|  |  |__ |  Y Y  \  \___  \  ___/ >    <  |  |  |  | \// __ \_\___ \ 
+:  \___  >\_/ |__|____/ |__|_|  /\___  >  \___  >__/\_ \ |__|  |__|  (____  /____  >
+:      \/                     \/     \/       \/      \/                  \/     \/ 
+
+** Extra functionality for evil-mc
+*** Synopsis
+*evil-mc-extras* provides functions that build on the core =evil-mc= functionality
+*** Usage
+Start with:
+#+BEGIN_SRC emacs-lisp
+ (require 'evil-mc-extras)
+#+END_SRC
+**** Local Setup
+To enable or disable *evil-mc-extras* mode for a single buffer use:\\
+#+BEGIN_SRC emacs-lisp
+(evil-mc-extras-mode  1) ;; enable
+(evil-mc-extras-mode -1) ;; disable
+#+END_SRC
+**** Global Setup
+To enable or disable *evil-mc-extras* mode for all buffers use:\\
+#+BEGIN_SRC emacs-lisp
+(global-evil-mc-extras-mode  1) ;; enable
+(global-evil-mc-extras-mode -1) ;; disable
+#+END_SRC
+*** Functions
+**** =evil-mc-inc-num-at-each-cursor=
+Increment the number at each active cursor by the index amount
+Default key binding ~gr+~
+**** =evil-mc-dec-num-at-each-cursor=
+Decrement the number at each active cursor by the index amount
+Default key binding ~gr-~
