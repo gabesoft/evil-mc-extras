@@ -5,6 +5,8 @@
 :  \___  >\_/ |__|____/ |__|_|  /\___  >  \___  >__/\_ \ |__|  |__|  (____  /____  >
 :      \/                     \/     \/       \/      \/                  \/     \/ 
 
+ [[https://travis-ci.org/gabesoft/evil-mc][https://travis-ci.org/gabesoft/evil-mc-extras.svg?branch=master]] [[http://melpa.org/#/evil-mc][file:http://melpa.org/packages/evil-mc-extras-badge.svg?style=flat-square]]
+
 ** Extra functionality for evil-mc
 *** Synopsis
 *evil-mc-extras* provides functions that build on the core =evil-mc= functionality
