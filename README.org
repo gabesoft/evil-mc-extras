@@ -27,8 +27,8 @@ To enable or disable *evil-mc-extras* mode for all buffers use:\\
 #+END_SRC
 *** Functions
 **** =evil-mc-inc-num-at-each-cursor=
-Increment the number at each active cursor by the index amount
+Increment the number at each active cursor by the index amount\\
 Default key binding ~gr+~
 **** =evil-mc-dec-num-at-each-cursor=
-Decrement the number at each active cursor by the index amount
+Decrement the number at each active cursor by the index amount\\
 Default key binding ~gr-~
