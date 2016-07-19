@@ -1,15 +1,15 @@
-:             .__.__                                      __                        
+:             .__.__                                      __
 :   _______  _|__|  |     _____   ____     ____ ___  ____/  |_____________    ______
 : _/ __ \  \/ /  |  |    /     \_/ ___\  _/ __ \\  \/  /\   __\_  __ \__  \  /  ___/
-: \  ___/\   /|  |  |__ |  Y Y  \  \___  \  ___/ >    <  |  |  |  | \// __ \_\___ \ 
+: \  ___/\   /|  |  |__ |  Y Y  \  \___  \  ___/ >    <  |  |  |  | \// __ \_\___ \
 :  \___  >\_/ |__|____/ |__|_|  /\___  >  \___  >__/\_ \ |__|  |__|  (____  /____  >
-:      \/                     \/     \/       \/      \/                  \/     \/ 
+:      \/                     \/     \/       \/      \/                  \/     \/
 
  [[https://travis-ci.org/gabesoft/evil-mc][https://travis-ci.org/gabesoft/evil-mc-extras.svg?branch=master]] [[http://melpa.org/#/evil-mc][file:http://melpa.org/packages/evil-mc-extras-badge.svg?style=flat-square]]
 
-** Extra functionality for [[https://github.com/gabesoft/evil-mc][evil-mc]] 
+** Extra functionality for [[https://github.com/gabesoft/evil-mc][evil-mc]]
 *** Synopsis
-*evil-mc-extras* provides functions that augment the core [[https://github.com/gabesoft/evil-mc][evil-mc]] functionality
+*evil-mc-extras* provides functions that augment the [[https://github.com/gabesoft/evil-mc][evil-mc]] functionality
 *** Usage
 Start with:
 #+BEGIN_SRC emacs-lisp
