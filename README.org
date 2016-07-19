@@ -7,9 +7,9 @@
 
  [[https://travis-ci.org/gabesoft/evil-mc][https://travis-ci.org/gabesoft/evil-mc-extras.svg?branch=master]] [[http://melpa.org/#/evil-mc][file:http://melpa.org/packages/evil-mc-extras-badge.svg?style=flat-square]]
 
-** Extra functionality for evil-mc
+** Extra functionality for [[https://github.com/gabesoft/evil-mc][evil-mc]] 
 *** Synopsis
-*evil-mc-extras* provides functions that build on the core =[[http://github.com/gabesoft/evil-mc][evil-mc]]= functionality
+*evil-mc-extras* provides functions that build on the core [[https://github.com/gabesoft/evil-mc][evil-mc]] functionality
 *** Usage
 Start with:
 #+BEGIN_SRC emacs-lisp
