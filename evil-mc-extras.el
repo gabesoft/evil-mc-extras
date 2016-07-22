@@ -7,8 +7,8 @@
 ;; Version: 0.0.1
 ;; Keywords: evil editing multiple-cursors vim evil-multiple-cursors evil-mc evil-mc-extras
 ;; Homepage: https://github.com/gabesoft/evil-mc-extras
-;; Package-Requires: ((emacs "24.3") (evil "1.2.12") (cl-lib "0.5") (evil-mc "0.0.2"))
 ;;
+;; Package-Requires: ((emacs "24.3") (evil "1.2.12") (cl-lib "0.5") (evil-mc "0.0.2") (evil-numbers "0.4"))
 ;; This file is NOT part of GNU Emacs.
 
 ;;; Commentary:
