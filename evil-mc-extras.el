@@ -43,6 +43,7 @@
       (evil-define-key 'visual map (kbd (car key-data)) (cdr key-data)))
     map))
 
+;;;###autoload
 (define-minor-mode evil-mc-extras-mode
   "Toggle evil multiple cursors extras in a single buffer."
   :group 'evil-mc-extras
